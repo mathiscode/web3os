@@ -1,2 +1,5 @@
 # web3os
-The OS for Web3
+
+Please visit the main kernel repository:
+
+[https://github.com/web3os-org/kernel](https://github.com/web3os-org/kernel)
